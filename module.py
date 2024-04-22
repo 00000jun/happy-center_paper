@@ -3,7 +3,7 @@
 """
 
 import streamlit as st
-import pages.read_number as read_number # 숫자 한글로 읽기
+import read_number as read_number # 숫자 한글로 읽기
 import pyperclip # 클립보드
 
 
